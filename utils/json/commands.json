@@ -1,0 +1,100 @@
+{
+  "arizona": [
+    {
+      "command": "/admins",
+      "description": "Администрация онлайн"
+    },
+    {
+      "command": "/servers",
+      "description": "Статус серверов"
+    },
+    {
+      "command": "/server",
+      "description": "Информация о сервере"
+    },
+    {
+      "command": "/find",
+      "description": "Информация об Игроке"
+    },
+    {
+      "command": "/leader",
+      "description": "Узнать информацию о Лидере"
+    },
+    {
+      "command": "/leaderslist",
+      "description": "Список Лидеров на сервере"
+    },
+    {
+      "command": "/deputy",
+      "description": "Узнать информацию о Заместителе"
+    },
+    {
+      "command": "/deputylist",
+      "description": "Список Заместителей на сервере"
+    },
+    {
+      "command": "/minister",
+      "description": "Узнать информацию о Министре"
+    },
+    {
+      "command": "/ministerslist",
+      "description": "Список Министров на сервере"
+    },
+    {
+      "command": "/members",
+      "description": "Узнать онлайн в Фракции"
+    },
+    {
+      "command": "/fractions",
+      "description": "Узнать ID Фракций"
+    },
+    {
+      "command": "/clear",
+      "description": "Очистить чат"
+    },
+    {
+      "command": "/kick",
+      "description": "Кикнуть пользователя"
+    },
+    {
+      "command": "/mute",
+      "description": "Замутить пользователя"
+    },
+    {
+      "command": "/unmute",
+      "description": "Размутить пользователя"
+    },
+    {
+      "command": "/settings",
+      "description": "Панель настроек сервера"
+    },
+    {
+      "command": "/panel",
+      "description": "Панель следящих"
+    },
+    {
+      "command": "/checkrp",
+      "description": "Проверить ник на РПшность"
+    },
+    {
+      "command": "/set balls",
+      "description": "Изменить количество баллов"
+    },
+    {
+      "command": "/set preds",
+      "description": "Изменить количество пред-ий"
+    },
+    {
+      "command": "/set vigs",
+      "description": "Изменить количество выг-ов"
+    },
+    {
+      "command": "/logs",
+      "description": "Посмотреть логи"
+    },
+    {
+      "command": "/forum",
+      "description": "Панель настроек форума"
+    }
+  ]
+}
