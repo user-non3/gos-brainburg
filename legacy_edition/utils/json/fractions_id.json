@@ -1,0 +1,126 @@
+[
+    {
+        "fid": "1",
+        "name": "LSPD"
+    },
+    {
+        "fid": "2",
+        "name": "SFPD"
+    },
+    {
+        "fid": "3",
+        "name": "FBI"
+    },
+    {
+        "fid": "4",
+        "name": "SFPD"
+    },
+    {
+        "fid": "5",
+        "name": "Больница ЛС"
+    },
+    {
+        "fid": "6",
+        "name": "Правительство"
+    },
+    {
+        "fid": "7",
+        "name": "ТСР"
+    },
+    {
+        "fid": "8",
+        "name": "Больница СФ"
+    },
+    {
+        "fid": "9",
+        "name": "Лицензиоры"
+    },
+    {
+        "fid": "10",
+        "name": "СМИ ЛС"
+    },
+    {
+        "fid": "11",
+        "name": "Groove Street"
+    },
+    {
+        "fid": "12",
+        "name": "Vagos"
+    },
+    {
+        "fid": "13",
+        "name": "Ballas"
+    },
+    {
+        "fid": "14",
+        "name": "Aztecas"
+    },
+    {
+        "fid": "15",
+        "name": "The Rifa"
+    },
+    {
+        "fid": "16",
+        "name": "Russian Mafia"
+    },
+    {
+        "fid": "17",
+        "name": "Yakuza"
+    },
+    {
+        "fid": "18",
+        "name": "La Cosa Nostra"
+    },
+    {
+        "fid": "19",
+        "name": "Warlock MC"
+    },
+    {
+        "fid": "20",
+        "name": "Армия ЛС"
+    },
+    {
+        "fid": "21",
+        "name": "Центральный банк"
+    },
+    {
+        "fid": "22",
+        "name": "Больница ЛВ"
+    },
+    {
+        "fid": "23",
+        "name": "LVPD"
+    },
+    {
+        "fid": "24",
+        "name": "СМИ ЛВ"
+    },
+    {
+        "fid": "25",
+        "name": "Night Wolfs"
+    },
+    {
+        "fid": "26",
+        "name": "СМИ СФ"
+    },
+    {
+        "fid": "27",
+        "name": "Армия СФ"
+    },
+    {
+        "fid": "28",
+        "name": "Undefined"
+    },
+    {
+        "fid": "29",
+        "name": "Страховая компания"
+    },
+    {
+        "fid": "30",
+        "name": "Bikers (TRB)"
+    },
+    {
+        "fid": "31",
+        "name": "Больница Jefferson"
+    }
+]
